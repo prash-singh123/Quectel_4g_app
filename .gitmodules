@@ -1,6 +1,6 @@
 [submodule "sdk"]
-    path = .
+    path = sdk
     url = https://github.com/prash-singh123/Quectel_base_sdk
 [submodule "common"]
-    path = .
+    path = common
     url = https://github.com/prash-singh123/comman_4g
